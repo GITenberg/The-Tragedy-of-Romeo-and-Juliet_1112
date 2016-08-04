@@ -1,0 +1,34 @@
+_repo: The-Tragedy-of-Romeo-and-Juliet_1112
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: World Library
+gutenberg_bookshelf: Italy
+gutenberg_issued: '1997-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1112'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'Vendetta -- Drama'
+- !lcsh 'Juliet (Fictitious character) -- Drama'
+- !lcsh 'Romeo (Fictitious character) -- Drama'
+- !lcsh 'Youth -- Drama'
+- !lcsh 'Verona (Italy) -- Drama'
+- !lcsh 'Conflict of generations -- Drama'
+- GITenberg
+title: The Tragedy of Romeo and Juliet
+url: http://www.gutenberg.org/ebooks/1112
